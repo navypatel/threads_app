@@ -1760,7 +1760,7 @@ If you think this project was great visit my github for more such amazing  proje
 **Also here are my social links**
 
 
-[Instagram](https://www.instagram.com/navypatell)
+[Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)][Instagram](https://www.instagram.com/navypatell)
 [LinkedIn](https://www.linkedin.com/in/navy-patel-a2121b2b7)
 [Facebook](https://www.facebook.com/navypatell)
 
